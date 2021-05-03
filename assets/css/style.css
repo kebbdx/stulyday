@@ -1,0 +1,15 @@
+@font-face {
+  font-family: "poppins";
+  src: url("/assets/fonts/Poppins-Regular.ttf");
+}
+* {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+* {
+  font-family: "poppins";
+}
+
+/*# sourceMappingURL=style.css.map */
